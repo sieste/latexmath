@@ -11,7 +11,7 @@
   - `__` for `_{}` and `^^` for `^{}`
   - `.+` for `\sum_{}^{}`
   - `<TAB>` to jump to next opening or closing brace/bracket/parenthesis
-  - ... and a few more, see the <latexmath.vim> script for all shortcuts
+  - ... and a few more, see the [latexmath.vim] script for all shortcuts
 - The script is easy to modify and expand to taylor it to your needs.
 
 ### Usage: 
