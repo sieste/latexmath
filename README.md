@@ -5,7 +5,7 @@
 - When in insert mode, math mode is toggled on/off with `Alt+M` 
 - The following insert-mode shortcuts then become available:
   - `.a` for `\alpha`, `.b` for `\beta` etc
-  - `.\` for `\frac{}{}` with cursor put into the first brace
+  - `./` for `\frac{}{}` with cursor put into the first brace
   - `.(`, `.[`, `.{` for `\left( \right)`, etc, with cursor placed in between
     parentheses
   - `__` for `_{}` and `^^` for `^{}`
