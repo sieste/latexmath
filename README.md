@@ -12,8 +12,17 @@
   - `.+` for `\sum_{}^{}`
   - `<TAB>` to jump to next opening or closing brace/bracket/parenthesis
   - ... and a few more, see the <latexmath.vim> script for all shortcuts
-- it's easy to modify and modify to taylor to your needs
-- `latexmath.vim` is just a stand-alone vimscript (i.e. not plugin-managed)
-  that can be sourced when needed, or put into the vim config.
+- The script is easy to modify and expand to taylor it to your needs.
+
+### Usage: 
+
+`latexmath.vim` is just a stand-alone vimscript (i.e. not plugin-managed), so
+just `:source` it whenever you need it:
+
+    :source latexmath.vim
+
+To have it always available, put the above line into your config file
+(`.vimrc`, `.config/nvim/init.vim`, ...).
+
 
 
